@@ -8,7 +8,7 @@ I'm junior front-end developer and I'm really interested and skills that I reach
 
 
 <br/>
-<a href="https://jobinja.ir/user/AD-1852188">Persian Resume</a>
+<a href="https://jobinja.ir/user/mahanabedini">Persian Resume</a>
 
 What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
 
