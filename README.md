@@ -6,9 +6,9 @@ I'm a front-end developer!
 
 I'm junior front-end developer and I'm really interested and skills that I reach by now you can check in my resume =>
 
-<a href="https://resume.io/r/r2uzCdQhY">English Resume</a>
+
 <br/>
-<a href="https://jobinja.ir/user/mobinveisy">Persian Resume</a>
+<a href="https://jobinja.ir/user/AD-1852188">Persian Resume</a>
 
 What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
 
@@ -24,7 +24,7 @@ What made me fall in love with web development and front-end is the capability t
 - 🧠 Love learning 
 - 🚀 Passionate for Success 
 - ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via => mobinveisy@yahoo.com
+- 📧 Reach me via => mahanabediny@yahoo.com
 <br>
 
 <br>
@@ -74,6 +74,6 @@ What made me fall in love with web development and front-end is the capability t
 -->     
 <br/>
        <br/>
-   <a href="https://mobinveisy.bio.link">🔗MobinVeisy</a>
+   <a href="https://mobinveisy.bio.link">🔗Mahan Abedini</a>
 </a>
 </p>
