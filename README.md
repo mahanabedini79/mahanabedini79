@@ -2,16 +2,19 @@
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=mahanabedini79&style=flat-square&color=blueviolet">
 <img src="./images/Mahan.png" width="100%"/>
-I'm a front-end developer!
+I'm a Network engineer !
 
-I'm junior front-end developer and I'm really interested and skills that I reach by now you can check in my resume =>
+I'm junior Network Engineer and python developer =>
 
 
 <br/>
 <a href="https://jobinja.ir/user/mahanabedini">Persian Resume</a> <br>
 <a href = "https://s6.uupload.ir/files/english_resume_nll6.jpg">English Resume</a>
 
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
+What made me fall in love with networking is the ability to design and build systems that feel like art.  
+Every time I draw a topology, configure routers and switches, or bring a complex network to life from scratch, it feels like I’m creating art with protocols and code.  
+
+
 
 
 ## 👨🏻‍💻 About me
@@ -21,11 +24,11 @@ What made me fall in love with web development and front-end is the capability t
 
 
 - 🌎 I'm from Earth - Iran/Tehran
-- 👨🏻‍💻 Love Programming , Web design ,entrepreneurship & Front-End
+- 👨🏻‍💻 Love python , Netowrk senarios ,data mining & network security
 - 🧠 Love learning 
 - 🚀 Passionate for Success 
 - ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via => mahanabediny@yahoo.com
+- 📧 Reach me via => mahansoft81@gmail.com
 <br>
 
 <br>
